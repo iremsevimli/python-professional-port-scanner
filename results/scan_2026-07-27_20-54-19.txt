@@ -1,0 +1,10 @@
+PYTHON PROFESSIONAL PORT SCANNER
+==================================================
+Hedef: 127.0.0.1
+IP: 127.0.0.1
+Tarama süresi: 5.67 saniye
+Açık port sayısı: 2
+==================================================
+
+Port: 135 | Durum: AÇIK | Servis: epmap
+Port: 445 | Durum: AÇIK | Servis: microsoft-ds
